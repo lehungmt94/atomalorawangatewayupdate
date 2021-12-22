@@ -1,0 +1,19 @@
+{
+  "last_firmware": {
+    "version": "1.0",
+    "link": "https://github.com/lehungmt94/atomalorawangatewayupdate/raw/",
+    "release_date": "12-1-2022"
+  },
+  "old_firmware": [
+    {
+      "version": "0.2",
+      "link": "https://github.com/lehungmt94/atomalorawangatewayupdate/raw/master/b.zip",
+      "release_date": "22-12-2021"
+    },
+    {
+      "version": "0.1",
+      "link": "https://github.com/lehungmt94/atomalorawangatewayupdate/raw/",
+      "release_date": "22-1-2021"
+    }
+  ]
+}
